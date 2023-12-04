@@ -1,0 +1,15 @@
+#navbarDiv {
+    background-color: rgb(7, 96, 7);
+    color: white;
+    padding: 10px;
+}
+
+#navbarDiv span {
+    margin-left: 80px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#navbarDiv .cart {
+    margin-left: 800px;
+}
