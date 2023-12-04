@@ -13,3 +13,30 @@
 #navbarDiv .cart {
     margin-left: 800px;
 }
+
+#belownav {
+    margin-left: 30px;
+    color: rgb(77, 73, 73);
+    margin-top: 20px;
+}
+
+#belownav>div {
+    margin-bottom: 20px;
+}
+
+#belownav span {
+    font-size: 22px;
+    margin-right: 1000px;
+}
+
+#belownav button {
+    border-radius: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#belownav span,
+#belownav button {
+    margin-left: 20px;
+
+}
